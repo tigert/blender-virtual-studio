@@ -27,7 +27,7 @@ making it difficult to know what object you have selected. You can also toggle b
 render preview, solid and wireframe modes with Shift-Z and Z for the viewport under 
 your mouse pointer.
 
-## Setting Colours of lights
+## Setting colours and intensities of lights
 
 The scene currently contains no specific "light" objects, but rather the lights are
 regular 3D objects (boxes and cylinders) that have their material set to "Emission"

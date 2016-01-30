@@ -56,7 +56,8 @@ If you need inspiration for the actual lighting setups, see
 www.strobist.com for a great set of learning material.
 
 As it often turns out, many people get the same good ideas sometimes independently of each other. 
-So I learned about [a nice blog post by Patrick David](http://blog.patdavid.net/2012/03/visualize-photography-lighting-setups.html) where he explains
-the same concept, you will find that one interesting too.
+Thus I learned about [a great blog post by Patrick David](http://blog.patdavid.net/2012/03/visualize-photography-lighting-setups.html) where he explains
+the same concept. You will definitely find that one interesting too. His blender scene includes a full head-and-shoulders
+human model with accurate textures and material properties, so that will definitely be useful!
 
 

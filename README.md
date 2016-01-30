@@ -4,39 +4,39 @@ Includes a few pre-defined lights and a backdrop and a simple table with a profe
 trained Test Garden Gnome. This is very quick, and there are likely other more advanced versions around, but
 as I am learning Blender as I go, this is what I have so far :-)
 
-## Overview
-
-As blender can be a bit overwhelming for a beginner, here's a quick overview:
-The scene you are loading is divided in three parts side by side: The overview,
-the render preview and the "sidebar that has a lot of stuff".
+As blender can be a bit overwhelming for the first time user, here's a quick overview
+to get you started. The scene you are loading is divided in three parts side by side. 
+There are two 3D views, and a sidebar with a lot of stuff.
 
 ### Setting things up
 
-Load the included .blend file in Blender, and select "Cycles Render" from the top menubar 
-if it is not already set. This is important for the realtime preview to work.
+Load the included .blend file in Blender, and check that you have the "Cycles Render" selected on the 
+top menubar.
 
-By default the scene has two views side by side. Each of them has a toolbar on 
-the bottom side, with several selectors, a bit like this:
+The scene has two views side by side. Each of them has a toolbar on the bottom with
+several selectors, a bit like this:
 
   ( Object Mode : ) ( @ :) ( 8 :)
 
 The selector on the right side of "Object Mode" is the "Viewport Shading" selector. Set it
 to "Rendered" on your larger preview and you should see your lights and shadows.
 
-Set the other viewport to "Material" or "Solid" or "Wireframe". This is useful because
-the render preview does not display the orange "object is selected" outline, making it
-hard to see what object you are manipulating when you want to tweak colors. You can
-however toggle between render preview, solid and wireframe modes with Shift-Z and Z.
+Keep the other viewport as-is (either "Material" or "Solid" or "Wireframe") because
+the actual render preview does not display the orange "object is selected" outline, 
+making it difficult to know what object you have selected. You can also toggle between
+render preview, solid and wireframe modes with Shift-Z and Z for the viewport under 
+your mouse pointer.
 
 ## Setting Colours of lights
 
-The scene contains no "light" objects, but rather the lights are regular 3D objects (boxes
-and cylinders) that have their material set to "Emission" with a defined colour. These are
-visible on the top part list of the sidebar. You can either select a light from there, or
-by right clicking an object in the 3D view.
+The scene currently contains no specific "light" objects, but rather the lights are
+regular 3D objects (boxes and cylinders) that have their material set to "Emission"
+with a defined colour. These are visible on the top part list of the right sidebar.
+You can either select objects by clicking them on the list, or by right clicking any
+object in the 3D view.
 
-Under the list there are a number of tabs, one of which is sphere with a checkerboard.
-This is the Material tab. Here you can change the color and intensity of your lights. 
+Under the list there are a number of tabs, one of which is Material, sphere with a 
+checkerboard as its icon. Here you can change the color and intensity of your lights. 
 You can also change the look of the Gnome if you wish, or any other objects you want
 to add.
 

@@ -1,7 +1,8 @@
-# blender-virtual-studio
-A simple Blender file to explore lights and shadows with the Cycles renderer preview
+# Blender virtual studio
+A simple [Blender](http://www.blender.org) scene to explore lights and shadows with the Cycles renderer preview
 Includes a few pre-defined lights and a backdrop and a simple table with a professionally
-trained Test Garden Gnome.
+trained Test Garden Gnome. This is very quick, and there are likely other more advanced versions around, but
+as I am learning Blender as I go, this is what I have so far :-)
 
 ## Overview
 

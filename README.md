@@ -53,5 +53,5 @@ material changes. So you need to tweak the strength if you scale lights and vice
 Happy exploring! :-)
 
 If you need inspiration for the actual lighting setups, see
-www.strobist.com and for a great set of learning material.
+www.strobist.com for a great set of learning material.
 
